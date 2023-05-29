@@ -7,10 +7,11 @@
   body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: rgb(0, 0, 0);
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(255, 234, 234);
   }
 
   img {
+    border-radius: 100px;
     display: block;
     margin-left: auto;
     margin-right: auto;
